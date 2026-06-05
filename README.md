@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/hamza-zafar-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="hamzazafar.4520@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/HamzaAssassin"><img src="https://img.shields.io/github/followers/hamzazafar?label=Follow&style=for-the-badge"/></a>
+  <a href="https://github.com/itshamzazafar"><img src="https://img.shields.io/github/followers/hamzazafar?label=Follow&style=for-the-badge"/></a>
 </p>
 
 ---
@@ -29,13 +29,13 @@ Recognized for effective cross-functional collaboration and a consistent track r
 `RESTful APIs` • `Firebase (Auth, Firestore, FCM, Realtime DB, Storage, Crashlytics)` • `Socket.IO` • `Third-party libraries`
 
 #### 💳 Payment & E-commerce
-`Apple Pay` • `Stripe Integration` • `In-App Purchases` • `Subscriptions`
+`Stripe Integration` • `In-App Purchases` • `Subscriptions`
 
 #### 🗄️ Database Management
 `SQLite (SQFlite)` • `Hive` • `Drift` • `Isar`
 
 #### 🚀 Publishing & Deployment
-`Google Play Console` • `Apple App Store` • `Release Management`
+`Google Play Console` • `Apple App Store`
 
 ---
 
@@ -55,14 +55,16 @@ Recognized for effective cross-functional collaboration and a consistent track r
 | **Better Mood: Relax & Sleep** | Relaxation and sleep improvement app | Flutter | [App Store](https://apps.apple.com/us/app/better-mood-relax-sleep/id6581483848) |
 | **Diastolix: Blood Pressure App** | Health tracking and monitoring app | Flutter | [App Store](https://apps.apple.com/us/app/diastolix-blood-pressure-app/id6738598836) |
 | **PunchPad** | Productivity and task management app | Flutter | [App Store](https://apps.apple.com/pk/app/punchpad/id6752496094) / [Play Store](https://play.google.com/store/apps/details?id=com.punchpad.app&pcampaignid=web_share) |
+| **Save Crazy Deals** | Finding the best online deals, discounts, nd shopping tips! | Flutter | [App Store](https://apps.apple.com/pk/app/save-crazy-deals/id6756123947) / [Play Store](https://play.google.com/store/apps/details?id=com.dealFinder.app) |
+| **In Shape Dates** | Find your workout partner, fitness soulmate, or take your health to the next level—all in one place | Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.esolutions.inshapedates) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzazafar&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzazafar&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itshamzazafar&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshamzazafar&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
