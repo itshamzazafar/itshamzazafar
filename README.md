@@ -63,8 +63,8 @@ Recognized for effective cross-functional collaboration and a consistent track r
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itshamzazafar&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshamzazafar&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=itshamzazafar&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamzazafar&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
