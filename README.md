@@ -2,9 +2,17 @@
 <h3 align="center">Flutter Developer | Android Developer | Mobile Architecture, Cross-platform Development</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hamza-zafar-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="hamzazafar.4520@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/itshamzazafar"><img src="https://img.shields.io/github/followers/hamzazafar?label=Follow&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/hamza-zafar-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:hamzazafar.4520@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/itshamzazafar">
+    <img src="https://img.shields.io/github/followers/itshamzazafar?label=Follow&style=for-the-badge"/>
+  </a>
 </p>
 
 ---
@@ -60,11 +68,15 @@ Recognized for effective cross-functional collaboration and a consistent track r
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itshamzazafar&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamzazafar&layout=compact&theme=tokyonight" height="150"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itshamzazafar&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshamzazafar&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itshamzazafar&theme=tokyonight"/>
 </p>
 
 ---
