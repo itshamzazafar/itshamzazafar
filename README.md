@@ -53,8 +53,6 @@ Recognized for effective cross-functional collaboration and a consistent track r
 |----------|--------------|-----------|--------|
 | **CAS ELMS** | Learning Management System app for CAS Organization | Flutter | [Play Store](https://play.google.com/store/apps/details?id=pk.org.cas.ELMS) |
 | **Mehr's Kitchen** | Food delivery application | Flutter | [Play Store](https://play.google.com/store/apps/details?id=pk.org.cas.food_delivery_app) |
-| **CAS Site** | Official website for CAS Organization | Flutter Web | [Visit Site](https://cas.org.pk) |
-| **Shoppe Tailor** | Tailor shop management system | Android (Java) | [GitHub Repo](https://github.com/HamzaAssassin/MY-SHOPPE-TAILOR) |
 | **Brbene Restaurant** | Restaurant ordering & management app | Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.brbene.restaurant.iraq) |
 | **AUR Pets** | Pet care and accessories store | Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.aur.pets.aur_pets) |
 | **Weight Loser** | Weight loss and health tracking app | Flutter (iOS) | [App Store](https://apps.apple.com/us/app/weightloser-weight-loss-coach/id6479640660) |
@@ -69,11 +67,6 @@ Recognized for effective cross-functional collaboration and a consistent track r
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itshamzazafar&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshamzazafar&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itshamzazafar&theme=tokyonight"/>
